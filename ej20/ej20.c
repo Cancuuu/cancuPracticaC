@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /*
-
+    
 para usar la libreria math te
 */
 
